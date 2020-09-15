@@ -14,4 +14,3 @@ Technology used:
  * jQuery
  * Bootstrap 4
 
-
